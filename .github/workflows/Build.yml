@@ -12,4 +12,4 @@ jobs:
     with:
       dotnet-version: 8.0.x
       configuration: Release
-      project-path: LettuceLogger.File/LettuceLogger.File.csproj
+      project-path: Lettuce.Log.File/Lettuce.Log.File.csproj
