@@ -10,6 +10,6 @@ jobs:
   build:
     uses: TheKingOfLettuce/LettuceGithubWorkflows/.github/workflows/Build-dotnet.yml@main
     with:
-      dotnet-version: 8.0.x
+      dotnet-version: 9.0.x
       configuration: Release
       project-path: Lettuce.Log.File/Lettuce.Log.File.csproj
