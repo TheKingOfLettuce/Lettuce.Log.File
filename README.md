@@ -2,7 +2,7 @@
 
 A logging destination that logs to a file, with optional rolling behavior
 
-[![Build](https://github.com/TheKingOfLettuce/Lettuce.Log.File/actions/workflows/Build.yml/badge.svg)](https://github.com/TheKingOfLettuce/Lettuce.Log.File/actions/workflows/Build.yml)
+[![Build & Test](https://github.com/TheKingOfLettuce/Lettuce.Log.File/actions/workflows/Build.yml/badge.svg)](https://github.com/TheKingOfLettuce/Lettuce.Log.File/actions/workflows/Build.yml)
 
 ## Quick Start
 
