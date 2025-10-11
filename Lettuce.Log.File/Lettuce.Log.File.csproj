@@ -9,6 +9,7 @@
     <Description>Logging destination that writes to a file</Description>
     <Version>1.0.1</Version>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
