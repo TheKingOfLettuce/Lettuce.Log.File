@@ -10,7 +10,7 @@ jobs:
   build:
     uses: TheKingOfLettuce/LettuceGithubWorkflows/.github/workflows/Build-dotnet.yml@main
     with:
-      dotnet-version: 9.0.x
+      dotnet-version: 10.0.x
       configuration: Release
       project-path: Lettuce.Log.File/Lettuce.Log.File.csproj
   test:
@@ -18,6 +18,6 @@ jobs:
 
     uses: TheKingOfLettuce/LettuceGithubWorkflows/.github/workflows/Test-dotnet.yml@main
     with:
-      dotnet-version: 9.0.x
+      dotnet-version: 10.0.x
       configuration: Release
       project-path: Lettuce.Log.File.Tests/Lettuce.Log.File.Tests.csproj
